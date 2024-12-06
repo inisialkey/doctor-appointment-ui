@@ -57,7 +57,7 @@ class _ScheduleFragmentState extends State<ScheduleFragment> {
                 borderRadius: BorderRadius.circular(100),
               ),
               padding: const EdgeInsets.symmetric(
-                horizontal: 32,
+                horizontal: 30,
                 vertical: 16,
               ),
               alignment: Alignment.center,
